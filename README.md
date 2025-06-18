@@ -1,3 +1,4 @@
+<div align="center">
 # SuperRes AI: Image Super-Resolution using Deep Learning
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -54,4 +55,4 @@ This is accomplished by:
 **Faculty Supervisor**: Mohammad Shifat-E-Rabbi  
 **Department**: Department of Electrical and Computer Engineering  
 **University**: North South University
-
+</div>
