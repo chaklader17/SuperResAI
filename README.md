@@ -24,7 +24,9 @@ This is accomplished by:
 <div align="center">
   
 ## 🔍 Key Features
+
 </div>
+
 - **Low-Resolution Simulation**: Original images are degraded through blurring and downsampling.
 - **Image Super-Resolution**: A deep learning model learns to reconstruct high-resolution images.
 - **Model Flexibility**: Supports switching between baseline (SRCNN) and advanced models (e.g., ESPCN).
@@ -36,6 +38,7 @@ This is accomplished by:
 ## 🧠 Technologies Used
 
 </div>
+
 ### Machine Learning Frameworks
 - **PyTorch** or **TensorFlow** (configurable)
 - **OpenCV / Pillow** for image processing
