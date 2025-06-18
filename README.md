@@ -1,10 +1,10 @@
 <div align="center">
   
-# SuperRes AI: Image Super-Resolution using Deep Learning
+# SuperRes AI: Image Super-Resolution using Machine Learning
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**SuperRes AI** is a machine learning-based system developed for the **CSE445 Machine Learning** course at **North South University**. The project focuses on restoring high-quality images from significantly degraded ones using deep learning models trained on real image data.
+**SuperRes AI** is a machine learning-based system developed for the **CSE445 Machine Learning** course at **North South University**. The project focuses on restoring high-quality images from significantly degraded ones using machine learning models trained on real image data.
 </div>
 
 ---
