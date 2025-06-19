@@ -57,7 +57,7 @@ This is accomplished by:
 
 | Student ID   | Name                        |
 |--------------|-----------------------------|
-| 2132882642   | Atique Shahrrier Chaklader  |
+| 2132882642   | Atique Shahrier Chaklader  |
 | 2212779042   | Samiyeel Alim Binaaf        |
 | 2022122042   | Md. Mubtasim Fuad           |
 | 2212626042   | Tamjid Islam                |
